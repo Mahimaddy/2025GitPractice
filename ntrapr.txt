@@ -2,4 +2,3 @@ NTR 1st commit Github
 
 Reset local commit chnages
 File added in Git Hub check further
-Moving pull ntr file giothub and reset afain after successfull commit
