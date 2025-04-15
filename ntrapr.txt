@@ -1,3 +1,4 @@
 NTR 1st commit Github
 
 Reset local commit chnages
+File added in Git Hub check further
